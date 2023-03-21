@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T00:05:22.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="WMWkwxlSLLkjZNF2b93Q" version="21.0.8" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vpdk5owFP01PnYGCCA+ruvu9qHtdGqnfY5whcwGQmNctb++iYRvdJmtrnTKk8nJzQf3nHuTIBN0H++fOE6jzywAOrGMYD9Bi4llmbbhyR+FHDJkamsg5CTQRiWwJL9Bg4ZGtySATc1QMEYFSeugz5IEfFHDMOdsVzdbM1qfNcUhtIClj2kb/UkCEWnUNIyy4SOQMNJTe45uWGH/OeRsm+j5EpZA1hLjfBhtuolwwHYVCD1M0D1nTGSleH8PVLk191jW7/FEa7FkDono0wHNTMcAz/bWpuPZhv9Bj/CC6Va7YU6Z/6xXKw65c16ACyJ9dUdJmEhIsHSC5ljXKKzl9PNNin2ShN9V28IrgU/H5oVVIt+0G80jFuFUTeNvV6CqmTKkLNA8IFxSTZiaZMO2ypvzNUvEUq/MlvVIxFTZy+KRBFDPamTjZs5WFZ/FxNdlildA5wVr94wyLpuOvMlugrPnQgKmnvERx4QqZf8AHuAE5wvRi7XaTOSulZ6DfQXSzDwBi0HwgzTJW3OV5AGkq7tSjQhpLKoIsVAX1hEQFkOXUpAFrYaeyrBGZQxGGQ4akjLQqIzBKANN68qwzbY0LLdDGqZzDWnYLWlMLBfH6dGBv7ZM/pJEAF9jH4oWrlskQJUkVlyWQlFFcuALjiEH5eJWpWFDewMhuJS7D+q5i6X+3Ubh1kmXZ68W6abZQfpVOHdanMuz4ZZCi5MiZlmcSq+qxz+RDXTwI/fm9FV0dIloNRvEIadNnNVBnHsN4tyOYG1QJkeQx2/lwV1EBCxTFbdosZM3gOFk0esEGWoEmYU6MmvXnnsNqqZjjPU+KzWT401jzBs3xHeI1ak1pA1xNubVM1y51oDyaq6JMbG+TpxtN64abkeQvVtiNc12UAUh5Jc87bq6/yv+CPAmOuJmD/djLu7UC8YG9kjUcjNmVV27Xl1iIQnyHiyFJEMq9rKWE+X25/MkifKay314ReNyiSGI82dB5cKzWuBAsSAv9VemlyW2I1uOxHZ5CvXgdTYcXtFZXoGu2O6hBE4zfFVSdY/bkTrrQep0OKTaI6k9SHV7kOoMh1TnLKmMi4iFLMH09sxeMAfXNo630ez0oNm+NM3HrtIf+FAxSJm8VW4qI39VQOXlhtM4hDf/N2zYW7kmuu1lIVtBKbjiUd6oQfeSGvyPDgXTHhr0hpNqpv9Mqrn5JtLnuGcNIru4s3q2sD3nytnCG2V0SRmZg5CR5V1URrJafmiTmZcfMqGHPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T00:25:19.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oPJQd-goEtL8ErudDxOX" version="21.0.8" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="2954" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39150e848f15840c-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Origenes de datos&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="70" y="70" width="170" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Procesamiento&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="280" y="70" width="510" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-1" target="hn7oYRoW0lqMR0Dnd4xg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-1" value="Sql Server&lt;br&gt;Capa Bronce" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#CD7F32;" vertex="1" parent="1">
+          <mxGeometry x="328.9" y="240" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-3" target="hn7oYRoW0lqMR0Dnd4xg-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://adatis.co.uk/wp-content/uploads/ssis.jpg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="167.8" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Visualización&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="820" y="70" width="240" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.itbacking.com/wp-content/uploads/2019/12/Power-BI-e1593592370671.jpg;" vertex="1" parent="1">
+          <mxGeometry x="850" y="165" width="180" height="133.96" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-6" target="hn7oYRoW0lqMR0Dnd4xg-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mmcb.b-cdn.net/media/attachments/c/6/1/c/2f090e455375d25088f919933d4b72c61b0bb858a51014f4bc347765060d/images.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="153" width="107" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-10" target="hn7oYRoW0lqMR0Dnd4xg-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://adatis.co.uk/wp-content/uploads/ssis.jpg;" vertex="1" parent="1">
+          <mxGeometry x="550" y="254.5" width="167.8" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-12" target="hn7oYRoW0lqMR0Dnd4xg-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-12" value="Sql Server&lt;br&gt;Capa Oro" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="578.9" y="105.5" width="110" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
