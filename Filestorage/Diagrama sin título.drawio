@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T00:25:19.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oPJQd-goEtL8ErudDxOX" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T02:38:41.901Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nGBSYEeJNZnBbW7TwPuj" version="21.0.8" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="2954" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="39150e848f15840c-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Procesamiento&lt;/font&gt;&lt;/b&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
           <mxGeometry x="280" y="70" width="510" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-1" target="hn7oYRoW0lqMR0Dnd4xg-10">
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-1" target="hn7oYRoW0lqMR0Dnd4xg-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-1" value="Sql Server&lt;br&gt;Capa Bronce" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#CD7F32;" vertex="1" parent="1">
@@ -26,7 +26,7 @@
           <mxGeometry x="820" y="70" width="240" height="310" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.itbacking.com/wp-content/uploads/2019/12/Power-BI-e1593592370671.jpg;" vertex="1" parent="1">
-          <mxGeometry x="850" y="165" width="180" height="133.96" as="geometry" />
+          <mxGeometry x="850" y="165" width="194.83" height="145" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-6" target="hn7oYRoW0lqMR0Dnd4xg-3">
           <mxGeometry relative="1" as="geometry" />
@@ -38,13 +38,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://adatis.co.uk/wp-content/uploads/ssis.jpg;" vertex="1" parent="1">
-          <mxGeometry x="550" y="254.5" width="167.8" height="91" as="geometry" />
+          <mxGeometry x="670" y="260" width="97.8" height="53.04" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-12" target="hn7oYRoW0lqMR0Dnd4xg-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hn7oYRoW0lqMR0Dnd4xg-12" value="Sql Server&lt;br&gt;Capa Oro" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="578.9" y="105.5" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="hn7oYRoW0lqMR0Dnd4xg-15" target="hn7oYRoW0lqMR0Dnd4xg-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hn7oYRoW0lqMR0Dnd4xg-15" value="Limpieza y tratamiento de datos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
